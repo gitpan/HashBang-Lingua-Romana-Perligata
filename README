@@ -1,0 +1,8 @@
+HashBang-Lingua-Romana-Perligata will install a binary executable called
+perligata on your system. This allows you to start your Perligata
+program with:
+
+    #!/usr/bin/perligata
+
+You'll need Damian Conway's module Lingua::Romana::Perligata. Read his
+documentation for more info.
